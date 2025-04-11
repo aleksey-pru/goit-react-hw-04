@@ -1,0 +1,12 @@
+.formWrapper {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.inputStyle {
+  height: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  color: black;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
